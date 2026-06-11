@@ -12,6 +12,7 @@ Exercício de HTML desenvolvido em aula na faculdade Flamingo. O projeto apresen
 - Arquivo HTML da atividade.
 - Estrutura com texto, títulos e conteúdo de receita.
 - Prática inicial de marcação HTML.
+- JPG do bolo
 
 ## Tecnologias
 
@@ -22,7 +23,7 @@ Exercício de HTML desenvolvido em aula na faculdade Flamingo. O projeto apresen
 
 Acesse pelo GitHub Pages:
 
-https://matheusgdqueiroz-del.github.io/Receita-de-bolo/
+https://matheusgdqueiroz-del.github.io/Receita-de-bolo/index.html
 
 Ou baixe o repositório e abra o arquivo `.html` no navegador.
 ## Autor
